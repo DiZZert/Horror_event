@@ -1,0 +1,3 @@
+- halloween Sounds Effects  Suspense..mp3 воспроизводится фоново на 10% скорости
+- фон для всей сцены элемент со скачанным с ютуба видео https://www.youtube.com/watch?v=tRhEp0T2_HA
+- на элемент камеры накидывается маска cam_frame.png
